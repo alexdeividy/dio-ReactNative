@@ -36,7 +36,7 @@ const App = ()=> {
         <StatusBar backgroundColor = {colorGithub} barStyle= "light-content" />
      <View style={style.content}>
         <Image
-        accessibilityLabel="Alex no espelho do banheiro"
+        accessibilityLabel="Alex no espelho"
         style={style.avatar} 
         source={{uri: imageProfileGitHub}}
         />
